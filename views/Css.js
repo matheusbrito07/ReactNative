@@ -7,6 +7,7 @@ const styles = StyleSheet.create({
       backgroundColor: '#212121',
       alignItems: 'center',
       justifyContent: 'center',
+      color:'white',
     },
     logo:{
       width:150,
@@ -84,6 +85,10 @@ const styles = StyleSheet.create({
       width:150,
       height:150,
       borderRadius:100
+    },
+
+    item:{
+      color:'white'
     },
 
   });
